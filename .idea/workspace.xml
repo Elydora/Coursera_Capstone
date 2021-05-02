@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b64485d3-48c9-4903-83d1-62c78702ceb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/capstone-clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/cluster4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/cluster4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/norwalk.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Report_intro.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Report_intro.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/initial_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project/initial_exploration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/~$port_intro.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619868600045</updated>
-      <workItem from="1619868603899" duration="16266000" />
+      <workItem from="1619868603899" duration="16296000" />
+      <workItem from="1619947517704" duration="2038000" />
     </task>
     <servers />
   </component>
@@ -81,5 +83,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/fichte/Dev/Coursera_Capstone/Project/norwalk.ipynb</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/fichte/Dev/Coursera_Capstone/Project/norwalk.ipynb</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
