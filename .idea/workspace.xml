@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b64485d3-48c9-4903-83d1-62c78702ceb7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Report_01.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Report_01.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/capstone-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project/capstone-project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +69,7 @@
       <workItem from="1620066768656" duration="19604000" />
       <workItem from="1620828594163" duration="41000" />
       <workItem from="1620943292520" duration="51490000" />
+      <workItem from="1621968198633" duration="1209000" />
     </task>
     <servers />
   </component>
